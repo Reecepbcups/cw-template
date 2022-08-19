@@ -1,5 +1,5 @@
 [package]
-name = "cw-template"
+name = "{{project-name}}"
 version = "0.1.0"
 authors = ["Reece Williams <reecepbcups@gmail.com>"]
 edition = "2021"
